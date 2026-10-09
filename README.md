@@ -6,7 +6,7 @@
 | 檔案名稱 | `index.html`（單一檔案） |
 | 類型 | 互動式教學 Web App |
 | 一句話介紹 | 轉動羅馬風格的密碼盤，體驗兩千年前凱薩大帝的加密術 |
-| 發佈方式 | GitHub Pages： |
+| 發佈方式 | GitHub Pages：https://thumperhuang.github.io/caesar-cipher-disk/ |
 
 ---
 
